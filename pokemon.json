@@ -4,61 +4,71 @@
       "id": 1,
       "name": "Bulbasaur",
       "type": "Plant",
-      "ability": "Cep Whip"
+      "ability": "Cep Whip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
     },
     {
       "id": 2,
       "name": "Pikachu",
       "type": "Electric",
-      "ability": "Electric Slap"
+      "ability": "Electric Slap",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
     },
     {
       "id": 3,
       "name": "Gyarados",
       "type": "Water",
-      "ability": "Wet Cannon"
+      "ability": "Wet Cannon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png"
     },
     {
       "id": 4,
       "name": "Realin",
       "type": "Mage",
-      "ability": "UWU Laser"
+      "ability": "UWU Laser",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEG09w3MTRrJQ/profile-displayphoto-shrink_800_800/0/1600088077272?e=1651708800&v=beta&t=CJ3Co6wl6vdA73yaepLtEHqtkRZPuUIvqGTc3j0u19I"
     },
     {
       "id": 5,
       "name": "Lucario",
       "type": "Fighter",
-      "ability": "Psychic Palm"
+      "ability": "Psychic Palm",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png"
     },
     {
       "id": 6,
       "name": "Jigglypuff",
       "type": "Sleep",
-      "ability": "Karaoke"
+      "ability": "Karaoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
     },
     {
       "id": 7,
       "name": "Charizard",
       "type": "Fire",
-      "ability": "Flamethrower"
+      "ability": "Flamethrower",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
     },
     {
       "id": 8,
-      "name": "Eeve",
-      "type": "Normal",
-      "ability": "Cute look"
+      "name": "Totodile",
+      "type": "Water",
+      "ability": "Cute bite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png"
     },
     {
       "id": 9,
-      "name": "Pidgey",
+      "name": "Pidgeot",
       "type": "Bird",
-      "ability": "Air Turd"
+      "ability": "Air Turd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
     },
     {
       "id": 10,
       "name": "Arceus",
       "type": "God",
-      "ability": "Being god, what else do you want?"
+      "ability": "Being god, what else do you want?",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png"
     }
   ]
 }
