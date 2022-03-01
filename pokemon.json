@@ -1,0 +1,64 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "type": "Plant",
+      "ability": "Cep Whip"
+    },
+    {
+      "id": 2,
+      "name": "Pikachu",
+      "type": "Electric",
+      "ability": "Electric Slap"
+    },
+    {
+      "id": 3,
+      "name": "Gyarados",
+      "type": "Water",
+      "ability": "Wet Cannon"
+    },
+    {
+      "id": 4,
+      "name": "Realin",
+      "type": "Mage",
+      "ability": "UWU Laser"
+    },
+    {
+      "id": 5,
+      "name": "Lucario",
+      "type": "Fighter",
+      "ability": "Psychic Palm"
+    },
+    {
+      "id": 6,
+      "name": "Jigglypuff",
+      "type": "Sleep",
+      "ability": "Karaoke"
+    },
+    {
+      "id": 7,
+      "name": "Charizard",
+      "type": "Fire",
+      "ability": "Flamethrower"
+    },
+    {
+      "id": 8,
+      "name": "Eeve",
+      "type": "Normal",
+      "ability": "Cute look"
+    },
+    {
+      "id": 9,
+      "name": "Pidgey",
+      "type": "Bird",
+      "ability": "Air Turd"
+    },
+    {
+      "id": 10,
+      "name": "Arceus",
+      "type": "God",
+      "ability": "Being god, what else do you want?"
+    }
+  ]
+}
